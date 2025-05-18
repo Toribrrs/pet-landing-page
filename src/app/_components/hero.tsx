@@ -39,16 +39,18 @@ export function Hero() {
               data-aos-delay="500"
               target='_blank'
               rel="noopener nenoreferrer"
-              href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações`}
+              href={`https://wa.me/552299763546?text=Olá vim pelo site e gostaria de mais informações`}
               className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               <WhatsappLogo className='w-5 h-5' />
               Contato via WhatsApp
             </a>
 
-          <span className="bg-black text-white px-3 py-1 text-sm rounded-full font-bold shadow-md transition-transform hover:scale-105">
-            5% OFF na primeira compra
-          </span>
+           <div className="mt-8">
+              <p className="text-sm mb-4">
+                <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> de desconto na primeira compra.
+              </p>
+            </div>
 
             </div>
 
