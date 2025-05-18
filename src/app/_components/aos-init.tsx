@@ -9,7 +9,7 @@ export function AosInit() {
     useEffect( () => {
         Aos.init( {
             duration: 800,
-            onde: true
+            once: true
         })
 
     }, [])

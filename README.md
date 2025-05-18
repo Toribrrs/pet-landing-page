@@ -1,6 +1,6 @@
 # Pet Landing Page
 
-Construção em andamento de uma Landing Page para um Petshop, utilizando Next.js e Tailwindcss
+Landing Page para um Petshop, utilizando Next.js e Tailwindcss
 
 ---
 
